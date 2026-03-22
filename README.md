@@ -4,7 +4,7 @@ Simply open "ficker.py" by double-clicking it, or right clicking on the icon and
 # NOTICE:
 Ficker is a Python-based program and needs to be open with terminal.
 
-#REQUIREMENTS:
+# REQUIREMENTS:
 -Python installed, you can download it here: https://www.python.org/downloads/
 
 -"filmdata.csv" on the data folder.
